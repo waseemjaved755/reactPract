@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 import App  from "./App";
+import "./index.css";
 
 //we render this App module here 
 //components in react are functions of javascript that returns actually html or xml elements
